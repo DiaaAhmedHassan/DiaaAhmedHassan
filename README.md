@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and Frontend development**
 
-- 📫 How to reach me **diaalion06@gmail.com**
+- 📫 How to reach me **diaamujahid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
