@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter and Frontend development**
+- 🌱 I’m currently learning **CI/CD stores pipline , AI and Machine learning**
 
 - 📫 How to reach me **diaamujahid@gmail.com**
 
