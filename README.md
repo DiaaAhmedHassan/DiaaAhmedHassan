@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **CI/CD stores pipline , AI and Machine learning**
+- 🌱 I’m currently learning **CI/CD stores pipline , AI and Machine learning, Backend**
 
 - 📫 How to reach me **diaamujahid@gmail.com**
 
